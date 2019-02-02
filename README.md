@@ -1,5 +1,47 @@
 # CSCI 121: Introduction to Computer Science
 
+## Helpful resources (adapted from a document by Rhody Kaner)
+
+### Drop-In Tutoring
+Drop-in tutoring happens every weekday evening, Sun-Thurs from 7-9pm in 
+ETC 208. Come by any time during tutoring hours (even if you don’t have a 
+question) to work on assignments around other CS students and get moral 
+support from the community. 
+
+### Individual/Small Group Tutoring 
+Every Reed student is entitled to one hour per week of individual tutoring
+(or more with an accommodation) for every course, and you also have the
+option to pool tutoring hours with other students in the class to do
+multiple hours of small-group tutoring. Tutoring appointments can be
+made at https://iris.reed.edu/tutor/tutors/profiles for any time and place
+that works for you and your tutor. Please remember that tutors are busy Reed
+students too, and really appreciate it when you try to schedule appointments
+at least a few days in advance when possible.
+
+### Professor Office Hours
+Eric’s Office Hours are in Library 316 on Tuesday 9am-12pm and Wednesday
+(on days projects are due) 7pm-midnight.
+
+Mark’s Office Hours are in Library 314 on Monday 5-6pm, Wednesday 4:10-6pm, 
+and Thursday 11am-noon.
+
+### STEMGeMs Office Hours
+Reed’s group for gender minorities in STEM hosts office hours (TBD for this
+upcoming semester).
+
+### DOJO Study Skills Workshops and Coaching
+Reed offers a variety of workshops as well as individual coaching to help
+you learn study skills, time management, etc. Find info at
+https://www.reed.edu/academic_support/index.html
+
+### Polytopia and The Math Lounge
+Polytopia (Library 387) and the Math Lounge (Library ) are academic spaces
+for students in CS (and math) classes. These spaces are often populated with
+other students working on similar coursework (and sometimes upperclassfolk
+who can answer your questions), and these rooms are conveniently on the same
+hallway as all the CS Professor’s offices.
+
+
 ## First steps
 
 This course is taught using Python 3. We recommend the following setup:
