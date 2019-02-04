@@ -2,6 +2,12 @@
 
 ## Helpful resources (adapted from a document by Rhody Kaner)
 
+### Mentors
+
+We will be assigning each student a mentor who will provide you personalized
+feedback for each project as the semester progresses. The list of
+available mentors is [here](https://github.com/Mark-Hopkins-at-Reed/csci-121/blob/master/admin/mentors.md).
+
 ### Drop-In Tutoring
 Drop-in tutoring happens every weekday evening, Sun-Thurs from 7-9pm in 
 ETC 208. Come by any time during tutoring hours (even if you don’t have a 
