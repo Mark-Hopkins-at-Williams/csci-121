@@ -31,9 +31,9 @@ Eric’s Office Hours are in Library 316 on Tuesday 9am-12pm and Wednesday
 Mark’s Office Hours are in Library 314 on Monday 5-6pm, Wednesday 4:10-6pm, 
 and Thursday 11am-noon.
 
-### STEMGeMs Office Hours
-Reed’s group for gender minorities in STEM hosts office hours (TBD for this
-upcoming semester).
+### STEMGems Office Hours
+Reed’s group for gender minorities in STEM hosts office hours for CS/Math/Stat
+on Tuesdays 5:30-6:30 in the Math Lounge.
 
 ### DOJO Study Skills Workshops and Coaching
 Reed offers a variety of workshops as well as individual coaching to help
