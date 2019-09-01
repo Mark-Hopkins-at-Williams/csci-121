@@ -28,7 +28,7 @@ at least a few days in advance when possible.
 Eric’s office hours are in Greywood 117 on Wednesday
 (on days projects are due) 7pm-midnight.
 
-Mark’s office hours are in Library 382 on Monday 3-5pm and Wednesday 3-5pm.
+Mark’s office hours are in Library 382 on Monday 4-6pm and Wednesday 4-6pm.
 
 ### DOJO Study Skills Workshops and Coaching
 Reed offers a variety of workshops as well as individual coaching to help
