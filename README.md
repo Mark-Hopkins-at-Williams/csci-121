@@ -25,15 +25,10 @@ students too, and really appreciate it when you try to schedule appointments
 at least a few days in advance when possible.
 
 ### Professor Office Hours
-Eric’s Office Hours are in Library 316 on Tuesday 9am-12pm and Wednesday
+Eric’s office hours are in Greywood 117 on Wednesday
 (on days projects are due) 7pm-midnight.
 
-Mark’s Office Hours are in Library 314 on Monday 5-6pm, Wednesday 4:10-6pm, 
-and Thursday 11am-noon.
-
-### STEMGems Office Hours
-Reed’s group for gender minorities in STEM hosts office hours for CS/Math/Stat
-on Tuesdays 5:30-6:30 in the Math Lounge.
+Mark’s office hours are in Library 382 on Monday 3-5pm and Wednesday 3-5pm.
 
 ### DOJO Study Skills Workshops and Coaching
 Reed offers a variety of workshops as well as individual coaching to help
@@ -45,7 +40,7 @@ Polytopia (Library 387) and the Math Lounge (Library ) are academic spaces
 for students in CS (and math) classes. These spaces are often populated with
 other students working on similar coursework (and sometimes upperclassfolk
 who can answer your questions), and these rooms are conveniently on the same
-hallway as all the CS Professor’s offices.
+hallway as some of the CS professors' offices.
 
 
 ## First steps
