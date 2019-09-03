@@ -28,7 +28,7 @@ embroider. I also have a cat named Tink.
 
 ## Henry Lindeman
 
-Hi, I'm Henry Lindeman (He/Him), a sophomore, I took 121 last year with Eric
+Hi, I'm Henry Lindeman (He/Him), a sophomore math-cs major, I took 121 last year with Eric
 and Mark so I have a good idea of what's going on. I also play trombone in both the 
 orchestra and jazz ensemble here, and chess in the chess club, as well as 
 having decent experience in other board games. I can't hear very well and 
@@ -38,14 +38,29 @@ will attempt to help you succeed on stuff.
 
 ## Becca Luff
 
-Becca is a sophomore majoring in Computer Science.
-
+HI! I'm Becca Luff a sophomore Computer Science major I'll be in the 9 am Labs 
+and Wednesday Night Drop-in tutoring. I took 121 Last year with Mark and Eric 
+and ended up having a lot of fun! Computer science can sometimes seem 
+unintuitive and the things your programs do can be confusing but with 
+determination and creativity, we can figure it out together. My other 
+hobbies and interests include music, politics, hiking, and fishing. Thank you 
+for considering me and best of luck!
 
 ## Robert McCaull
 
-Robert is a junior majoring in Computer Science.
-
+Hi, I'm Robert McCaull (he/him/his), and I'm a junior CS major.  I took this
+class in fall 2017 with Jim Fix, and I've tutored for it a few times since
+then.  I have a fair amount of experience with programming, and I really
+enjoy working on CS problems.  So, I'm always happy to help with projects,
+or just talk about CS in general.  Outside of academics, I enjoy strategy
+and role playing games, sailing, and walking in nature - among other things,
+of course.  
 
 ## Kaiyan Shi
 
-Kaiyan is a senior majoring in Computer Science.
+Hi, I am Kaiyan Shi, a senior math/CS major. I am interested in theoretical 
+computer science, especially areas related to mathematics and physics. I had 
+no past experience in computer science before CSCI 121, and so I could give 
+advice based on my experience in CSCI 121 if you are a beginner.  Moreover, 
+I have some experiences studying in both Budapest math and CS programs and I 
+am happy to talk about it. 
