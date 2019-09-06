@@ -25,8 +25,8 @@ students too, and really appreciate it when you try to schedule appointments
 at least a few days in advance when possible.
 
 ### Professor Office Hours
-Eric’s office hours are in Greywood 117 on Wednesday
-(on days projects are due) 7pm-midnight.
+Eric’s office hours are in Greywood 117 on Tuesday 9am-noon and Wednesday
+(only on days **projects** are due) 7pm-midnight.
 
 Mark’s office hours are in Library 382 on Monday 4-6pm and Wednesday 4-6pm.
 
