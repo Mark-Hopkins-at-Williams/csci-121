@@ -10,7 +10,7 @@ available mentors is [here](https://github.com/Mark-Hopkins-at-Reed/csci-121/blo
 
 ### Drop-In Tutoring
 Drop-in tutoring happens every weekday evening, Sun-Thurs from 7-9pm in 
-ETC 208. Come by any time during tutoring hours (even if you don’t have a 
+ETC 211. Come by any time during tutoring hours (even if you don’t have a 
 question) to work on assignments around other CS students and get moral 
 support from the community. 
 
