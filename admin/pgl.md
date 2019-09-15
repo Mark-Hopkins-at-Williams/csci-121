@@ -5,15 +5,19 @@ used by the Portable Graphics Library (PGL). To test whether this is the
 case, try the following:
 
 1. Open the Terminal application.
-2. Type the following:
+2. Type the command ```python``` and press the return key.
+3. Your screen should show something that looks like the following:
 
 ```
     $ python
     Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
     Type "help", "copyright", "credits" or "license" for more information.
-    >>> import tkinter
-    >>> tkinter._test() 
-```
+    >>> 
+    
+```    
+
+4. Now type ```import tkinter; tkinter._test()``` and press the return key.
+
 
 If a friendly window pops up that says "This is Tcl/Tk..." and more, then
 you're fine. Otherwise, you were probably automatically logged out and are
@@ -39,8 +43,7 @@ problem by taking the following steps:
     $ python
     Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
     Type "help", "copyright", "credits" or "license" for more information.
-    >>> import tkinter
-    >>> tkinter._test() 
+    >>> import tkinter; tkinter._test() 
 ```
     
 Hopefully you get the friendly pop-up window. If not, email me (hopkinsm@reed.edu)
