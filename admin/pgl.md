@@ -7,11 +7,13 @@ case, try the following:
 1. Open the Terminal application.
 2. Type the following:
 
+```
     $ python
     Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
     Type "help", "copyright", "credits" or "license" for more information.
     >>> import tkinter
     >>> tkinter._test() 
+```
 
 If a friendly window pops up that says "This is Tcl/Tk..." and more, then
 you're fine. Otherwise, you were probably automatically logged out and are
@@ -25,17 +27,21 @@ problem by taking the following steps:
 5. Open the Terminal application again.
 6. Type the following:
 
+```
     echo "alias python=/usr/local/bin/python3.7" >> ~/.bash_profile
+```
     
 7. Exit the Terminal by typing Cmd-Q.
 8. Open the Terminal application again (!)
 9. Now try the test again:
 
+```
     $ python
     Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
     Type "help", "copyright", "credits" or "license" for more information.
     >>> import tkinter
     >>> tkinter._test() 
+```
     
 Hopefully you get the friendly pop-up window. If not, email me (hopkinsm@reed.edu)
 for help.
