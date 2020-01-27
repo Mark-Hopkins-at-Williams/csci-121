@@ -1,5 +1,11 @@
 # CSCI 121: Introduction to Computer Science
 
+## First steps
+
+- For information about setting up your personal computer with Python, read [this](admin/anaconda.md).
+- For information about using the autograder, read [this](admin/autograder.md).
+
+
 ## Helpful resources (adapted from a document by Rhody Kaner)
 
 ### Mentors
