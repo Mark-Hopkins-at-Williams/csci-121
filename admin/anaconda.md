@@ -1,4 +1,4 @@
-## Setting up Python on your computer
+# Setting up Python on your computer
 
 This course is taught using Python 3. We recommend the following setup:
 
