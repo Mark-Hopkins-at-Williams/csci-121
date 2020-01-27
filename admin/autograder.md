@@ -1,4 +1,4 @@
-## Using the autograder
+# Using the autograder
 
 Most of your projects and homeworks will be submitted to an online grading
 system. Here we'll go through the steps involved in submitting a homework.
