@@ -1,23 +1,30 @@
 ## Exercise 1
 
-Write a function ```makeGroceryList``` that takes a list of strings as its input. It should return a “grocery list”, which is a single string that separates the elements of the list with the word “and”.
+Write a function ```makeGroceryList``` that takes a list of strings as its 
+input. It should return a “grocery list”, which is a single string that 
+separates the elements of the list with the word “and”.
 
-    > makeGroceryList(['bananas', 'celery', 'apples', 'salt'])
-    'bananas and celery and apples and salt'
+    > makeGroceryList(['toilet paper', 'hand sanitizer', 'salt'])
+    'toilet paper and hand sanitizer and salt'
 
 ## Exercise 2
 
-Write a function ```makeTodaysGroceryList``` that takes a list of strings as its first argument and a predicate function as its second argument. It should return a “grocery list”, which identifies the elements of the list that satisfy the predicate, and then separates those elements with the word “and”.
+Write a function ```makeTodaysGroceryList``` that takes a list of strings 
+as its first argument and a predicate function as its second argument. It 
+should return a “grocery list”, which identifies the elements of the list 
+that satisfy the predicate, and then separates those elements with the 
+word “and”.
 
-    > def isPlural(s):
-        return s.endswith('s')
+    > def isMultipleWords(s):
+        return ' ' in s
 
-    > makeTodaysGroceryList(['bananas', 'apples', 'salt'], isPlural)
-    'bananas and apples'
+    > makeTodaysGroceryList(['toilet paper', 'hand sanitizer', 'salt'], isMultipleWords)
+    'toilet paper and hand sanitizer'
 
 ## Exercise 3
 
-Write a function ```drawBoard``` that takes a length-3 list of length-3 lists and prints out an attractive tic-tac-toe board.
+Write a function ```drawBoard``` that takes a length-3 list of length-3 lists 
+and prints out an attractive tic-tac-toe board.
 
     > drawBoard([["X", " ", "O"], [" ", "X", "O"], [" ", " ", "X"]])
     X| |O
@@ -28,7 +35,10 @@ Write a function ```drawBoard``` that takes a length-3 list of length-3 lists an
 
 ## Exercise 4
 
-Write a function ```emptyBoard``` that creates an empty “board” (i.e. list of lists). Then write a function ```play``` that takes a board (list of lists), player (“X” or “O”), and grid location (from 1 to 9). It should modify the board to put that player’s symbol in the right location.
+Write a function ```emptyBoard``` that creates an empty “board” (i.e. list 
+of lists). Then write a function ```play``` that takes a board (list of 
+lists), player (“X” or “O”), and grid location (from 1 to 9). It should 
+modify the board to put that player’s symbol in the right location.
 
     > board = emptyBoard()
     > drawBoard(board)
@@ -49,7 +59,8 @@ Write a function ```emptyBoard``` that creates an empty “board” (i.e. list o
 
 ## Exercise 5
 
-Write a function ```isFull``` that takes a board (list of lists), and returns ```True``` if all the squares contains either an X or an O.
+Write a function ```isFull``` that takes a board (list of lists), and 
+returns ```True``` if all the squares contains either an X or an O.
 
     > board = [["X", " ", "O"],
                [" ", "X", "O"],
@@ -67,7 +78,9 @@ Write a function ```isFull``` that takes a board (list of lists), and returns ``
 
 ## Exercise 6 
 
-Write a function ```winner``` that takes a board (list of lists), and a player (“X” or “O”), and returns ```True``` if that player has already won the game (otherwise ```False```).
+Write a function ```winner``` that takes a board (list of lists), and a 
+player (“X” or “O”), and returns ```True``` if that player has already won 
+the game (otherwise ```False```).
 
     > board = [["X", " ", "O"],
                [" ", "X", "O"],
@@ -82,7 +95,8 @@ Write a function ```winner``` that takes a board (list of lists), and a player (
 
 ## Exercise 7
 
-Write a function ```tictactoe()``` that allows two players to play the game of tic-tac-toe.
+Write a function ```tictactoe()``` that allows two players to play the game 
+of tic-tac-toe.
 
     > tictactoe()
      | |
@@ -125,7 +139,8 @@ Write a function ```tictactoe()``` that allows two players to play the game of t
 
 ## Exercise 8
 
-Extend the game so that players can engage in psychological warfare by rotating the board counterclockwise 90 degrees.
+Extend the game so that players can engage in psychological warfare by 
+rotating the board counterclockwise 90 degrees.
 
     > tictactoe()
      | |

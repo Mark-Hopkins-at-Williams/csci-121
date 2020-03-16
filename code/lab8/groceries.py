@@ -15,7 +15,7 @@ def makeTodaysGroceryList(groceries, predicate):
   True if that string is on today's grocery list.
   
   > makeTodaysGroceryList(['toilet paper', 'hand sanitizer', 'salt'], isMultipleWords)
-  'toilet paper and hand sanitizer and salt'
+  'toilet paper and hand sanitizer'
   
   """
   raise NotImplementedError('fill this in!')
