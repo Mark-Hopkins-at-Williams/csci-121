@@ -19,7 +19,7 @@ using [this link](https://calendar.google.com/calendar/selfsched?sstoken=UU5mSjE
 
 **Website:** [http://markandrewhopkins.com/csci-121-fundamentals-of-computer-science-i](http://markandrewhopkins.com/csci-121-fundamentals-of-computer-science-i/)
 
-**Course Information Sheet**:  [here](https://github.com/Mark-Hopkins-at-Reed/csci-377/blob/master/CSCI377CourseInfoSheet.pdf)
+**Course Information Sheet**:  [here](https://github.com/Mark-Hopkins-at-Reed/csci-121/blob/master/Course%20Info%20Sheet.pdf)
 
 ## Overview
 
