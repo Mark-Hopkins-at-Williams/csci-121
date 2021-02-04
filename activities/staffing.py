@@ -1,0 +1,13 @@
+answer1 = int(input("Q1: At what temperature do you bake oatmeal cookies? "))
+answer2 = input("Q2: Who makes Oreos? ")
+answer3 = input("Q3: U WANT COOKIE? ")
+right1 = (answer1 == 350)
+right2 = (answer2 == "nabisco")
+right3 = (answer3 == "yes") or (answer3 == "y")
+make_offer = ((right1 and right2) or (right1 and right3)) or (right2 and right3)
+all_correct = (right1 and right2) and right3
+print("Q1 correct: " + str(right1))
+print("Q2 correct: " + str(right2))
+print("Q3 correct: " + str(right3))
+print("All correct: " + str(all_correct))
+print("Make offer: " + str(make_offer))
