@@ -1,3 +1,5 @@
+"""All three of these functions are correct solutions!"""
+
 def compose(f, g):
     return lambda x: f(g(x))
 
