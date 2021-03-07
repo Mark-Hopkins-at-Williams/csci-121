@@ -30,7 +30,29 @@ def is_leaf(node):
     return (left(node) == None) and (right(node) == None)
 
 
+def insertion_point(root, lbl):
+    node = root
+    done = False
+    while not done:
+        if label(node) > lbl and left(node) != None:
+            node = left(node)
+        elif label(node) < lbl and right(node) != None:
+            node = right(node)
+        else:
+            done = True
+    return node
+
+
+def is_favorite(root, lbl):
+    """ Fill in with your solution. """
+
+
+def insert(root, lbl):
+    """ Fill in with your solution. """
+
+
 def favorites():
+    """ Just an example tree that stores the Count's favorite numbers. """
     leaf8 = leaf(8)
     leaf12407 = leaf(12407)
     leaf51897 = leaf(51897)
@@ -62,25 +84,5 @@ def viz(node):
         return result
     print(viz_helper(node, 0).strip())
 
-
-def insertion_point(root, lbl):
-    node = root
-    done = False
-    while not done:
-        if label(node) > lbl and left(node) != None:
-            node = left(node)
-        elif label(node) < lbl and right(node) != None:
-            node = right(node)
-        else:
-            done = True
-    return node
-
-
-def is_favorite(root, lbl):
-    """ Fill in with your solution. """
-
-
-def insert(root, lbl):
-    """ Fill in with your solution. """
 
 
