@@ -66,7 +66,7 @@ def evaluate(etree):
     if is_leaf(etree):
         return label(etree)
     else:
-        func = label(etree)
+        func = eval(label(etree))
         left_value = evaluate(left(etree))
         right_value = evaluate(right(etree))
         return func(left_value, right_value)
