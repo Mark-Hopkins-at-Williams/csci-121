@@ -1,7 +1,7 @@
 def selection_sort(ls):
     for position in range(0, len(ls)):
         selection = position
-        for student in range(position, len(ls)):
+        for student in range(position + 1, len(ls)):
             if ls[student] < ls[selection]:
                 selection = student
         ls[position], ls[selection] = ls[selection], ls[position]
