@@ -1,10 +1,10 @@
 def selection_sort(ls):
-    for back in range(0, len(ls)):
-        selection = back
-        for student in range(back, len(ls)):
+    for position in range(0, len(ls)):
+        selection = position
+        for student in range(position, len(ls)):
             if ls[student] < ls[selection]:
                 selection = student
-        ls[back], ls[selection] = ls[selection], ls[back]
+        ls[position], ls[selection] = ls[selection], ls[position]
 
 
 def bubble_sort(ls):
