@@ -18,7 +18,7 @@ class Plotter:
         self.fig.legend()
         self.ax.set_title("Asymptotic Analysis")
         self.ax.set_xlabel("n")
-        self.ax.set_ylabel("f(n) or g(n)")
+        self.ax.set_ylabel("g(n) or kf(n)")
         self.fig.show()
 
 
