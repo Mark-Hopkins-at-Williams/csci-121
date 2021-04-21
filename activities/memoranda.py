@@ -33,6 +33,7 @@ def compare(f, g, k=1):
     plotter.show()
 
 def presentation():
+    """ Call me! I provide business logic! """
     compare(lambda n: n**2, lambda n: n*log(n))
 
 
