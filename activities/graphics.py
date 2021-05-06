@@ -1,4 +1,4 @@
-from pgl import GWindow, GOval, GRect, GCompound, GLabel
+from pgl import GWindow, GOval, GRect, GCompound, GLabel, GPolygon
 
 
 class Rectangle(GRect):
@@ -11,11 +11,41 @@ class Rectangle(GRect):
             self.setColor(color)
         self.setFilled(filled)
 
+    def set_color(self, color):
+        self.setFillColor(color)
+
     def get_height(self):
         return self.height
 
     def get_width(self):
         return self.width
+
+
+class RegularPolygon(GPolygon):
+    def __init__(self, side_length, num_sides, color,
+                 rotation=0, filled=True, outlined=False):
+        super().__init__()
+        self.addVertex(-side_length, 0)
+        angle = 360/num_sides + rotation
+        for i in range(num_sides):
+            self.addPolarEdge(side_length, angle)
+            angle += 360/num_sides
+        self.setFillColor(color)
+        self.setFilled(filled)
+        if outlined:
+            self.setColor("black")
+        else:
+            self.setColor(color)
+
+
+class Triangle(RegularPolygon):
+    def __init__(self, side_length, color, rotation=0):
+        super().__init__(side_length, 3, color, rotation)
+
+
+class Hexagon(RegularPolygon):
+    def __init__(self, side_length, color, rotation=0):
+        super().__init__(side_length, 6, color, rotation)
 
 
 class Circle(GCompound):
@@ -64,6 +94,9 @@ class Poster(GCompound):
     def unpin(self, shape):
         self.remove(shape)
 
+    def element_at(self, x, y):
+        return self.getElementAt(x, y)
+
 
 class BulletinBoard(GWindow):
     def __init__(self, w, h):
@@ -92,6 +125,12 @@ class BulletinBoard(GWindow):
     def call_every(self, function, interval):
         timer = self.createTimer(function, interval)
         timer.setRepeats(True)
+        timer.start()
+        return timer
+
+    def call_later(self, function, interval):
+        timer = self.createTimer(function, interval)
+        timer.setRepeats(False)
         timer.start()
         return timer
 
