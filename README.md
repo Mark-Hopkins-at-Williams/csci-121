@@ -76,11 +76,32 @@ last two weeks (the exception is Sprint 4, which is three weeks, but
 Wednesday, Mar 10 is a Reed-wide holiday). Each sprint culminates in a
 50-minute quiz. The tentative timeline for the sprints is as follows:
 - **Sprint 1**: Monday, Jan 25 to Friday, Feb 5
+  - Simple expressions (Booleans, strings, integers, floats) 
+  - Variables
 - **Sprint 2**: Monday, Feb 8 to Friday, Feb 19
+  - Functions
+  - Lambda expressions
+  - Variable scope/environment diagrams
+  - Lists
+  - While statements 
 - **Sprint 3**: Monday, Feb 22 to Friday, Mar 5
+  - Dictionaries and sets
+  - Mutability
+  - Linked lists
+  - Trees
 - **Sprint 4**: Monday, Mar 8 to Friday, Mar 26
+  - Recursion
+  - Object-oriented programming
+  - Object inheritance 
 - **Sprint 5**: Monday, Mar 29 to Friday, Apr 9
+  - Sorting algorithms
+  - Complexity analysis/O-notation
+  - Base-k representation
 - **Sprint 6**: Monday, Apr 19 to Friday, Apr 30
+  - Character encodings
+  - Files
+  - Asynchronous events
+  - Graphics and animation
 
 **Homework:** Most Fridays, there will a homework set due. It will typically
 be assigned during Tuesday lab, and the first part of the homework will be
